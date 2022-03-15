@@ -6,11 +6,10 @@ Our company has been founded in 2018 and SHPAUCO is the second branch included o
 
 Services
 
-✓ Free Smart Contract security checks.
-✓ Smart Contracts development:
-✓ Solidity Development
-✓ Blockchain Analytics 
-✓ WEB 3.0 Integrations
+-✓ Free Smart Contract security checks
+-✓ Smart Contracts development
+-✓ Solidity Development
+-✓ Blockchain Analytics 
+-✓ WEB 3.0 Integrations
 
-Contact us
 
