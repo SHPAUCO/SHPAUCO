@@ -1,16 +1,16 @@
-### Hi there 👋
+### Here is what wer are wotking on!
 
-<!--
-**SHPAUCO/SHPAUCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our company has been founded in 2018 and SHPAUCO is the second branch included of block chain, Solidity and Network Security engineers and developers. We Provide audit Services by which Smart contracts are analyzed and reported.  Our team report all the matters on smart contracts of crypto markets for any issues.
+
+Services
+
+✓ Free Smart Contract security checks.
+✓ Smart Contracts development:
+✓ Solidity Development
+✓ Blockchain Analytics 
+✓ WEB 3.0 Integrations
+
+Contact us
+
